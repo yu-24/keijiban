@@ -1,0 +1,93 @@
+header{
+    width:100%;
+}
+.containter{
+    width:95%;
+    display:block;
+}
+
+.left{
+    width:80%;
+    float:left;
+    display:block;
+}
+.right{
+    width:20%;
+    float:left;
+    display:block;
+}
+
+.left h1{
+    border-left:5px solid black;
+    border-bottom:4px solid gray;
+    padding-left:10px;
+    margin-top:0px;
+    
+}
+.form{
+    background-color:lightgray;
+    border-radius:10px;
+    border: 2px solid gray;
+    margin: 10px;
+}
+.form h2{
+    border-left:5px solid red;
+    margin-left:10px;
+    padding-left:5px;
+    margin-bottom:0px;
+}
+.form div {
+    padding:8px;
+}
+
+.touko{
+    background-color:lightgray;
+    border-radius:10px;
+    border: 2px solid gray;
+    margin: 10px;
+}
+
+.touko h3{
+    border-bottom: 2px solid grey;
+    margin:10px 10px;
+}
+.comments{
+    margin:10px 10px;
+}
+.handlename{
+    font-size:10px;
+}
+
+.right ul h2{
+    border-bottom: 3px dotted gray;
+}
+
+.right ul li{
+    list-style:none;
+    margin-left:10px;
+}
+
+.header_menu{
+    background-color:black;
+    color:white;
+    width:auto;
+    list-style:none;
+    line-height:45px;
+    height:45px;
+}
+
+.header_menu li{
+    float :left;
+    padding-right:40px;
+    
+}
+
+footer{
+    float :left;
+    background-color:black;
+    color:white; 
+    text-align:center;
+    height:30px;
+    width:100%;
+    margin-top:30px;
+}
